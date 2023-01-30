@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/youtube_clone/static/js/main.2a53ce04.js",
+    "index.html": "/youtube_clone/index.html",
+    "main.2a53ce04.js.map": "/youtube_clone/static/js/main.2a53ce04.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2a53ce04.js"
+  ]
+}
